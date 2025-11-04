@@ -1,5 +1,5 @@
 <h1 style="display: flex; align-items: center;">
-  <img src="Icons/Summary.png" width="32" height="32"
+  <img src="Icons/Summary.png" width="48" height="48"
     style="margin-right: 10px;"/>&nbsp;Summary
 </h1>
 
@@ -14,7 +14,7 @@ I analysed customer data, found key reasons for churn, suggested solutions, and 
 ---
 
 <h1 style="display: flex; align-items: center;">
-  <img src="Icons/Skills.png" width="32" height="32"
+  <img src="Icons/Skills.png" width="48" height="48"
     style="margin-right: 10px; vertical-align: middle;"/>&nbsp;Skills
 </h1>
 
