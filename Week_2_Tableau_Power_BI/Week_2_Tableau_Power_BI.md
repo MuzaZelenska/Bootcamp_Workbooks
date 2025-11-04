@@ -8,7 +8,6 @@ I also analysed the **Spotify** dataset to find patterns in music popularity, ge
 In **Power BI**, I completed a series of labs that covered importing and cleaning data, creating reports and dashboards, and using **DAX formulas** for calculations and time analysis.  
 By the end of the week, I felt more confident in turning data into clear visual insights and presenting results in a professional way.
 
----
 
 ## Skill List
 - Data visualisation and reporting  

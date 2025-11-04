@@ -8,7 +8,6 @@ I also studied **data protection principles** such as **GDPR**, the **Data Prote
 For the final project, I prepared and presented a **data analysis report** for an imaginary company that was losing customers.  
 I analysed customer data, found key reasons for churn, suggested solutions, and presented my findings using visual charts and summaries.
 
----
 
 ## Skill List
 
