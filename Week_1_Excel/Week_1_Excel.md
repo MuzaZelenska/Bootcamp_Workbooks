@@ -1,5 +1,5 @@
 <h1 style="display: flex; align-items: center;">
-  <img src="Icons/Summary.png" width="32" height="32" style="margin-right: 10px; display: inline-block;"/>Summary
+  <img src="Icons/Summary.png" width="32" height="32" style="margin-right: 10px; display: inline-block;"/>&nbsp;Summary
 </h1>
 
 I completed the **Just IT Data Technician Bootcamp**, where I learned how to work with data step by step.  
