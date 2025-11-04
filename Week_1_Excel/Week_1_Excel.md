@@ -1,5 +1,9 @@
 <h2 align="center">
- <img src="Icons/Summary.png" width="32" style="vertical-align: middle; margin-right: 10px;/>
+ <img 
+  src="Icons/Summary.png" 
+  width="32" 
+  style="vertical-align: middle; margin-right: 10px;"
+ />
  Summary
 </h2>
 
@@ -14,7 +18,11 @@ I analysed customer data, found key reasons for churn, suggested solutions, and 
 ---
 
 <h2 align="center">
- <img src="Icons/Skills.png" width="32" style="vertical-align: middle; margin-right: 10px;/>
+ <img
+  src="Icons/Skills.png" 
+  width="32" 
+  style="vertical-align: middle; margin-right: 10px;"
+ />
  Skills
 </h2>
 
