@@ -2,7 +2,7 @@
   <img 
     src="Icons/Summary.png" 
     width="48" 
-    style="margin-right: 10px;" 
+    style="margin-right: 10px; vertical-align: middle;" 
   />
   Summary
 </h1>
@@ -21,7 +21,7 @@ I analysed customer data, found key reasons for churn, suggested solutions, and 
   <img 
     src="Icons/Skills.png" 
     width="48" 
-    style="margin-right: 10px;" 
+    style="margin-right: 10px; vertical-align: middle;" 
   />
   Skills
 </h1>
