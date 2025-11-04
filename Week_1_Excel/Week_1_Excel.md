@@ -1,10 +1,10 @@
-<h2 align="center">
- <img 
-  src="Icons/Summary.png" 
-  width="32" 
-  style="vertical-align: middle; margin-right: 10px;"
- />
- Summary
+<h2 style="display: flex; align-items: center;">
+  <img 
+    src="Icons/Summary.png" 
+    width="32" 
+    style="margin-right: 10px;" 
+  />
+  Summary
 </h2>
 
 I completed the **Just IT Data Technician Bootcamp**, where I learned how to work with data step by step.  
@@ -17,13 +17,13 @@ I analysed customer data, found key reasons for churn, suggested solutions, and 
 
 ---
 
-<h2 align="center">
- <img
-  src="Icons/Skills.png" 
-  width="32" 
-  style="vertical-align: middle; margin-right: 10px;"
- />
- Skills
+<h2 style="display: flex; align-items: center;">
+  <img 
+    src="Icons/Skills.png" 
+    width="32" 
+    style="margin-right: 10px;" 
+  />
+  Skills
 </h2>
 
 - **Excel:** Pivot Tables, formulas (`SUM`, `AVERAGE`, `IF`, `SWITCH`), charts, and conditional formatting.  
