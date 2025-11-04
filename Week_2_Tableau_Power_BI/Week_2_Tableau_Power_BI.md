@@ -1,5 +1,5 @@
 
-# GitHub Summary. Week 2 - Tableau and Power BI
+# Week 2 - Tableau and Power BI
 
 During the second week of the **Just IT Data Technician Bootcamp**, I learned how to work with **Tableau** and **Power BI** for data visualisation and reporting.  
 I researched the different versions of Tableau and created a dashboard using the **EMSI Job Change UK** dataset with charts and a UK map to show key locations.  
