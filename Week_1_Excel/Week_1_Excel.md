@@ -1,4 +1,4 @@
-<img src="5142701.png" width="24"/> **Summary**
+<img src="Icons/Summary.png" width="24"/> **Summary**
 
 I completed the **Just IT Data Technician Bootcamp**, where I learned how to work with data step by step.  
 During the course, I practiced collecting, cleaning, and analysing datasets in **Excel**.  
@@ -10,7 +10,7 @@ I analysed customer data, found key reasons for churn, suggested solutions, and 
 
 ---
 
-<img src="5756698.png" width="24"/> **Skills**
+<img src="Icons/Skills.png" width="24"/> **Skills**
 
 - **Excel:** Pivot Tables, formulas (`SUM`, `AVERAGE`, `IF`, `SWITCH`), charts, and conditional formatting.  
 - **Data analysis:** Cleaning, interpreting, and summarising datasets.  
