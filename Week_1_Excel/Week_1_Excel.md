@@ -1,11 +1,11 @@
-<h2 style="display: flex; align-items: center;">
+<h1 style="display: flex; align-items: center;">
   <img 
     src="Icons/Summary.png" 
     width="32" 
     style="margin-right: 10px;" 
   />
   Summary
-</h2>
+</h1>
 
 I completed the **Just IT Data Technician Bootcamp**, where I learned how to work with data step by step.  
 During the course, I practiced collecting, cleaning, and analysing datasets in **Excel**.  
@@ -17,14 +17,14 @@ I analysed customer data, found key reasons for churn, suggested solutions, and 
 
 ---
 
-<h2 style="display: flex; align-items: center;">
+<h1 style="display: flex; align-items: center;">
   <img 
     src="Icons/Skills.png" 
     width="32" 
     style="margin-right: 10px;" 
   />
   Skills
-</h2>
+</h1>
 
 - **Excel:** Pivot Tables, formulas (`SUM`, `AVERAGE`, `IF`, `SWITCH`), charts, and conditional formatting.  
 - **Data analysis:** Cleaning, interpreting, and summarising datasets.  
