@@ -1,7 +1,4 @@
-<h2 style="display: flex; align-items: center;">
-  <img src="Icons/Summary.png" width="32" height="32"
-    style="margin-right: 10px; vertical-align: middle;"/>&nbsp;Summary
-</h2>
+# Week 1 - Excel
 
 I completed the **Just IT Data Technician Bootcamp**, where I learned how to work with data step by step.  
 During the course, I practiced collecting, cleaning, and analysing datasets in **Excel**.  
@@ -13,10 +10,7 @@ I analysed customer data, found key reasons for churn, suggested solutions, and 
 
 ---
 
-<h2 style="display: flex; align-items: center;">
-  <img src="Icons/Skills.png" width="32" height="32"
-    style="margin-right: 10px; vertical-align: middle;"/>&nbsp;Skills
-</h2>
+## Skill List
 
 - **Excel:** Pivot Tables, formulas (`SUM`, `AVERAGE`, `IF`, `SWITCH`), charts, and conditional formatting.  
 - **Data analysis:** Cleaning, interpreting, and summarising datasets.  
