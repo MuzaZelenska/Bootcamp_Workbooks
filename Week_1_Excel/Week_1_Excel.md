@@ -1,7 +1,6 @@
-<h1 style="display: flex; align-items: center;">
-  <img src="Icons/Summary.png" width="48" height="48"
-    style="margin-right: 10px;"/>&nbsp;Summary
-</h1>
+<div style="display: flex; align-items: center;">
+  <img src="Icons/Summary.png" width="48" height="48" style="margin-right: 10px;"/>&nbsp;Summary
+</div>
 
 I completed the **Just IT Data Technician Bootcamp**, where I learned how to work with data step by step.  
 During the course, I practiced collecting, cleaning, and analysing datasets in **Excel**.  
