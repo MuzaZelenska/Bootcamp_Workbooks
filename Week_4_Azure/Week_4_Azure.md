@@ -1,5 +1,5 @@
 
-# Week 4 Project - Microsoft Azure
+# Week 4 - Microsoft Azure
 
 During the fourth week of the **Just IT Data Technician Bootcamp**, I focused on learning about **Microsoft Azure** and how cloud services support modern data management.  
 I studied different types of clouds (public, private, hybrid, community) and cloud service models such as **IaaS**, **PaaS**, and **SaaS**, learning how businesses use them in real-world situations.  
