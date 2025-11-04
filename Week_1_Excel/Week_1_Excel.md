@@ -1,6 +1,6 @@
-<div class="header">
-  <img src="Icons/Summary.png" width="48" height="48" style="margin-right: 10px;"/>&nbsp;Summary
-</div>
+<h1 style="display: flex; align-items: center;">
+  <img src="Icons/Summary.png" width="32" height="32" style="margin-right: 10px; display:inline-block;"/><div style="margin-bottom:5px;">Summary</div>
+</h1>
 
 I completed the **Just IT Data Technician Bootcamp**, where I learned how to work with data step by step.  
 During the course, I practiced collecting, cleaning, and analysing datasets in **Excel**.  
@@ -26,7 +26,3 @@ I analysed customer data, found key reasons for churn, suggested solutions, and 
 - **Teamwork:** Able to collaborate and discuss ideas with others in group work.  
 - **Adaptability:** Quick to learn new tools and technologies.  
 - **Time management:** Staying organised and meeting deadlines.
-
-<style>
-.header {display: flex;}
-</style>
