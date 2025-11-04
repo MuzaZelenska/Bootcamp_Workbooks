@@ -1,5 +1,5 @@
 
-# 📊 GitHub Summary – Week 2 Project
+# GitHub Summary – Week 2 Project
 
 During the second week of the **Just IT Data Technician Bootcamp**, I learned how to work with **Tableau** and **Power BI** for data visualisation and reporting.  
 I researched the different versions of Tableau and created a dashboard using the **EMSI Job Change UK** dataset with charts and a UK map to show key locations.  
@@ -10,7 +10,7 @@ By the end of the week, I felt more confident in turning data into clear visual 
 
 ---
 
-## 🧠 Skill List
+## Skill List
 - Data visualisation and reporting  
 - Creating dashboards in Tableau and Power BI  
 - Cleaning and transforming data  
