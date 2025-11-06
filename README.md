@@ -98,7 +98,7 @@ We discussed and described:
 
 Through this activity, I practised database planning, relational design, and SQL fundamentals, applying them to a real-world business scenario.
 
-![Excel Chart](images/sql_4.png)
+![Excel Chart](images/sql_4.jpg)
 
 **Final SQL Task**  
 I completed a series of real-world scenarios using SQL queries to explore and analyse demographic and economic data from a global cities database.
