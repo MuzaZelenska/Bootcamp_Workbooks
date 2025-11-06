@@ -26,6 +26,7 @@ During the course, I practised collecting, cleaning, and analysing datasets in E
   - Created a pivot table to analyse and visualise data  
 
 - Created different types of charts (line, pie, and column charts) to explore relationships and trends.
+
   ![Excel Chart](images/excel_1.png)  
 - Prepared and presented a **data analysis report** for an imaginary company losing customers, identified key churn reasons, and suggested improvements.
 
