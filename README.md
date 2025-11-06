@@ -139,6 +139,8 @@ During the fourth week of the Just IT Data Technician Bootcamp, I focused on lea
 
 During the labs, I completed Azure learning paths on relational, non-relational, and analytical data in Azure.
 
+![Excel Chart](images/azure_3.jpg)
+
 As part of a business scenario, I created a report for a small company called “Paws & Whiskers”, explaining how to migrate from Excel to Azure using services such as Azure SQL Database, Azure Data Factory, Azure Blob Storage, and Power BI.
 
 **Skill List**
@@ -172,6 +174,8 @@ During the fifth week of the Just IT Data Technician Bootcamp, I learned how to 
 - to create a pivot table  
 - to sort a DataFrame by the ‘mark’ column  
 - to save a DataFrame to a new CSV file  
+
+![Excel Chart](images/python_1.png)
 
 **Pie Chart Development Process**
 
