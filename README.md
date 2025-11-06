@@ -135,7 +135,7 @@ During the fourth week of the Just IT Data Technician Bootcamp, I focused on lea
 
 ![Excel Chart](images/azure_1.png)
 
-![Excel Chart](images/azure_2.png)![Excel Chart](images/azure_2_2.png)
+![Excel Chart](images/azure_2.jpg)
 
 During the labs, I completed Azure learning paths on relational, non-relational, and analytical data in Azure.
 
