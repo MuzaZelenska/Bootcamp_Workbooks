@@ -181,10 +181,42 @@ During the fifth week of the Just IT Data Technician Bootcamp, I learned how to 
 
 I created a series of pie charts in Python using Matplotlib to visualise student performance by grades and gender. The project went through four main versions, each adding new features and improving the design and readability.
 
-- **Version 1 – Basic Chart:** Created a simple pie chart showing gender distribution and percentages.
-- **Version 2 – First Grade Chart:** Added grade distribution (A, B, C, D), new colours, rounded percentages, and rotation from top clockwise.
-- **Version 3 – Adding Style and Legend:** Set manual colours, changed font, added legend, and improved background.
-- **Version 4 – Final Version with Data Table:** Added a table with all students who received grade A (Excellent), improved design and sorting, and fixed display issues.
+### Version 1 – Basic Chart
+
+- Created a simple **pie chart** showing gender distribution.  
+- Showed the percentage of each gender.  
+- This version helped to understand how pie charts represent categorical data.  
+
+---
+
+### Version 2 – First Grade Chart
+
+- Created a pie chart to show **grade distribution** (A, B, C, D).  
+- Changed the **colour palette** to make it clearer.  
+- Rounded the percentage values to **0 decimal places**.  
+- Rotated the chart so that it starts from the top and moves **clockwise**.  
+
+---
+
+### Version 3 – Adding Style and Legend
+
+- Set **specific colours** to each grade manually (to make it easy to find and replace in the future).  
+- Changed **font size and weight** in the title.  
+- Added a **legend** explaining what each grade means (A – Excellent, B – Good, etc.).  
+- Changed the **background colour** for a softer look.  
+- Hid category labels (A, B, C, D) from the chart since they were already included in the legend.  
+- This version made the chart more professional and visually appealing.  
+
+---
+
+### Version 4 – Final Version with Data Table
+
+- Added a **table** next to the chart with all students who received grade **A (Excellent)**.  
+- Improved the **table layout and design** (font, alignment, and borders).  
+- Sorted the table by students with excellent results **A**.  
+- Fixed a **bug** that affected the display of columns **C** and **D** on the chart.  
+- This final version combines visual insights with detailed data, making the chart both **informative and interactive**.  
+
 
 ![Excel Chart](images/python_2.jpg)
 
