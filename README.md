@@ -187,7 +187,6 @@ I created a series of pie charts in Python using Matplotlib to visualise student
 - Showed the percentage of each gender.  
 - This version helped to understand how pie charts represent categorical data.  
 
----
 
 ### Version 2 – First Grade Chart
 
@@ -196,7 +195,6 @@ I created a series of pie charts in Python using Matplotlib to visualise student
 - Rounded the percentage values to **0 decimal places**.  
 - Rotated the chart so that it starts from the top and moves **clockwise**.  
 
----
 
 ### Version 3 – Adding Style and Legend
 
@@ -207,7 +205,6 @@ I created a series of pie charts in Python using Matplotlib to visualise student
 - Hid category labels (A, B, C, D) from the chart since they were already included in the legend.  
 - This version made the chart more professional and visually appealing.  
 
----
 
 ### Version 4 – Final Version with Data Table
 
