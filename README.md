@@ -111,6 +111,8 @@ The exercises included:
 - Selecting and sorting data with specific limits  
 - Using aggregate functions (COUNT, AVG, MAX, MIN) and conditional filters (WHERE, BETWEEN, LIKE, ORDER BY, LIMIT)  
 
+![Excel Chart](images/sql_5.jpg)
+
 By the end of the week, I gained confidence in creating and managing databases, writing SQL queries, and analysing data from multiple tables.
 
 **Skill List**
@@ -130,6 +132,8 @@ By the end of the week, I gained confidence in creating and managing databases, 
 ### Week 4 — Microsoft Azure
 
 During the fourth week of the Just IT Data Technician Bootcamp, I focused on learning about Microsoft Azure and how cloud services support modern data management. I studied different types of clouds (public, private, hybrid, community) and cloud service models such as IaaS, PaaS, and SaaS, learning how businesses use them in real-world situations. I also explored UK data protection laws, including the Computer Misuse Act, GDPR, and the Data Protection Act 2018, understanding how they support the safe use of digital data.
+
+![Excel Chart](images/azure_1.jpg)
 
 During the labs, I completed Azure learning paths on relational, non-relational, and analytical data in Azure.
 
