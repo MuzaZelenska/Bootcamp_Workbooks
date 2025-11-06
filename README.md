@@ -135,6 +135,9 @@ During the fourth week of the Just IT Data Technician Bootcamp, I focused on lea
 
 ![Excel Chart](images/azure_1.png)
 
+![Excel Chart](images/azure_2.png)
+![Excel Chart](images/azure_2_2.png)
+
 During the labs, I completed Azure learning paths on relational, non-relational, and analytical data in Azure.
 
 As part of a business scenario, I created a report for a small company called “Paws & Whiskers”, explaining how to migrate from Excel to Azure using services such as Azure SQL Database, Azure Data Factory, Azure Blob Storage, and Power BI.
