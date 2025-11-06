@@ -20,7 +20,11 @@ Worked with the retail-sales_dataset.xlsx file — sorted data, used the SUM and
 
 Created different types of charts — a line chart, a pie chart, and a column chart — and learned how to use them. I discovered that data visualisation supports analysis and interpretation by clearly showing patterns, relationships, and trends.
 
+![Excel Chart](images/excel_1.png)
+
 For the final project, I prepared and presented a data analysis report for an imaginary company that was losing customers. I analysed customer data, identified key reasons for churn, suggested improvements, and presented the findings using visual charts and summaries.
+
+![Excel Chart](images/excel_2.png)
 
 **Skill List**
 
