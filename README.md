@@ -49,7 +49,7 @@ Using the Spotify dataset, I analysed the data to identify trends and key insigh
 
 I completed several Power BI labs focused on loading, transforming, and visualising data, as well as working with DAX functions and dashboards.
 
-![Excel Chart](images/tableau_powerbi_2.png)
+![Excel Chart](images/tableau_powerbi_2.jpg)
 
 Report created in Power BI Desktop and published online via Power BI Service.
 
