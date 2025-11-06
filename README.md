@@ -186,6 +186,8 @@ I created a series of pie charts in Python using Matplotlib to visualise student
 - **Version 3 – Adding Style and Legend:** Set manual colours, changed font, added legend, and improved background.
 - **Version 4 – Final Version with Data Table:** Added a table with all students who received grade A (Excellent), improved design and sorting, and fixed display issues.
 
+![Excel Chart](images/python_2.jpg)
+
 By the end of the week, I was able to clean, transform, and visualise data in Python confidently.
 
 **Skill List**
