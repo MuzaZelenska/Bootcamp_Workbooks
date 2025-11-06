@@ -75,6 +75,8 @@ These exercises helped me understand how to connect datasets, design interactive
 
 During the third week of the Just IT Data Technician Bootcamp, I learned the fundamentals of SQL and how to work with relational databases.
 
+![Excel Chart](images/sql_1.png)
+
 Learned what primary and foreign keys are, and how they are related. Provided real-world examples of one-to-one, one-to-many, and many-to-many relationships.
 
 Understood the difference between relational and non-relational databases.
@@ -92,7 +94,11 @@ We discussed and described:
 - SQL implementation – examples of CREATE TABLE, INSERT, and JOIN statements  
 - Maintenance plan – checking data quality, saving backups, managing user access, and keeping information secure  
 
+![Excel Chart](images/sql_2.png)
+
 Through this activity, I practised database planning, relational design, and SQL fundamentals, applying them to a real-world business scenario.
+
+![Excel Chart](images/sql_4.png)
 
 **Final SQL Task**  
 I completed a series of real-world scenarios using SQL queries to explore and analyse demographic and economic data from a global cities database.
