@@ -53,7 +53,13 @@ I completed several Power BI labs focused on loading, transforming, and visualis
 
 Report created in Power BI Desktop and published online via Power BI Service.
 
+![Excel Chart](images/tableau_powerbi_3.png)
+
 These exercises helped me understand how to connect datasets, design interactive reports, and apply key analytical tools in Power BI. By the end of the week, I felt more confident about turning data into clear visual insights and presenting results in a professional way.
+
+![Excel Chart](images/tableau_powerbi_4.png)
+
+![Excel Chart](images/tableau_powerbi_5.png)
 
 **Skill List – Tableau & Power BI:**
 
