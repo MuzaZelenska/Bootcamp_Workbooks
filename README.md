@@ -43,6 +43,8 @@ During the second week of the Just IT Data Technician Bootcamp, I learned how to
 
 Using a dataset, I created my own dashboard that included a bar chart showing percentage changes and a UK map highlighting the main cities affected.
 
+![Excel Chart](images/tableau_powerbi_1.png)
+
 Using the Spotify dataset, I analysed the data to identify trends and key insights that could be useful for future organisational projects.
 
 I completed several Power BI labs focused on loading, transforming, and visualising data, as well as working with DAX functions and dashboards.
