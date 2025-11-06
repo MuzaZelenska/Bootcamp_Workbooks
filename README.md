@@ -6,7 +6,7 @@ My Bootcamp Projects
 
 
 
-\# Just IT Data Technician Bootcamp — Summary
+# Just IT Data Technician Bootcamp — Summary
 
 
 
@@ -20,7 +20,7 @@ Each week focused on a different part of the data workflow — from collecting a
 
 
 
-\## Week 1 — Excel
+## Week 1 — Excel
 
 
 
