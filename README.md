@@ -49,6 +49,8 @@ Using the Spotify dataset, I analysed the data to identify trends and key insigh
 
 I completed several Power BI labs focused on loading, transforming, and visualising data, as well as working with DAX functions and dashboards.
 
+![Excel Chart](images/tableau_powerbi_2.png)
+
 Report created in Power BI Desktop and published online via Power BI Service.
 
 These exercises helped me understand how to connect datasets, design interactive reports, and apply key analytical tools in Power BI. By the end of the week, I felt more confident about turning data into clear visual insights and presenting results in a professional way.
