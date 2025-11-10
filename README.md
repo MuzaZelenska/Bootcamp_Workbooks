@@ -16,7 +16,7 @@ Learned about common laws and regulations that must be followed when working wit
 - How it impacts working with data  
 - What could happen if it is breached
 
-Worked with the retail-sales_dataset.xlsx file — sorted data, used the SUM and AVERAGE functions, applied filters to show top results, used the MAX and SWITCH functions, and applied conditional formatting. Created a pivot table and learned how to use it to analyse and visualise data effectively.
+Sorted data, used the SUM and AVERAGE functions, applied filters to show top results, used the MAX and SWITCH functions, and applied conditional formatting. Created a pivot table and learned how to use it to analyse and visualise data effectively.
 
 Created different types of charts — a line chart, a pie chart, and a column chart — and learned how to use them. I discovered that data visualisation supports analysis and interpretation by clearly showing patterns, relationships, and trends.
 
